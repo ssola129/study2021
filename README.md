@@ -17,3 +17,10 @@
 
 - https://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html
 
+### 바벨(Babel)
+
+- https://jeonghwan-kim.github.io/series/2019/12/22/frontend-dev-env-babel.html
+
+### 린트(Lint)
+
+- https://jeonghwan-kim.github.io/series/2019/12/30/frontend-dev-env-lint.html
