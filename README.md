@@ -26,4 +26,4 @@
 - https://jeonghwan-kim.github.io/series/2019/12/30/frontend-dev-env-lint.html
 
 ### 프론트엔드 개발환경의 이해: 웹팩(심화)
-- https://github.com/ssola129/2021_study/wiki/%EC%9B%B9%ED%8C%A9%28Webpack%29-%EC%8B%AC%ED%99%94%ED%8E%B8/_edit
+- https://jeonghwan-kim.github.io/series/2020/01/02/frontend-dev-env-webpack-intermediate.html
